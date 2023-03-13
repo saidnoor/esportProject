@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: #000000e2;
+}
+.header{
+    text-align: center;
+    font-family: Comic;
+    font-weight: bold;
+    background-color: rgb(14, 14, 15);
+    width: 100%;
+}
+.customDiv{
+    margin: 3px;
+    min-height: 300px;
+    background-color: rgb(49, 51, 50);
+    text-align: center;
+    font-size: large;
+    color: #fff;
+}
+.container{
+    width: 100%;
+}
+.mydiv{
+    background-color: #f2f2f2;
+    padding:30px;
+    border-radius: 10px;
+    margin-top: 5vh;
+
+}
+.customdiv1{
+    margin: 3px;
+    min-height: 100px;
+    background-color: rgb(49, 51, 50);
+    text-align: center;
+    font-size: large;
+    color: #fff;
+}
